@@ -1,0 +1,40 @@
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\bin\Debug\Курсавая.exe.config
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\bin\Debug\Курсавая.exe
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\bin\Debug\Курсавая.pdb
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.csproj.AssemblyReference.cache
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form1.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form2.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Properties.Resources.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.csproj.GenerateResource.cache
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.csproj.CoreCompileInputs.cache
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.exe
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.pdb
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\bin\Debug\3Form.mdb
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.FormEmployee.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form4.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form5.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form6.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form7.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form8.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form9.resources
+C:\Users\User\Searches\Desktop\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form10.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\bin\Debug\3Form.mdb
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\bin\Debug\Курсавая.exe.config
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\bin\Debug\Курсавая.exe
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\bin\Debug\Курсавая.pdb
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.csproj.AssemblyReference.cache
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form1.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form10.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form2.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.FormEmployee.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form4.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form5.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form6.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form7.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form8.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Form9.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.Properties.Resources.resources
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.csproj.GenerateResource.cache
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.csproj.CoreCompileInputs.cache
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.exe
+C:\Users\User\Searches\Desktop\Журнал куратора\Курсавая\Курсавая\Курсавая\obj\Debug\Курсавая.pdb
