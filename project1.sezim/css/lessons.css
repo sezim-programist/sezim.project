@@ -1,0 +1,204 @@
+
+/* PHONE CHECKER */
+
+.choose {
+    padding-top: 66px;
+    padding-bottom: 87px;
+}
+.title__wrap {
+    text-align: center;
+}
+.title__desc {
+    width: 561px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.block {
+    margin: 30px auto 0;
+    width: 1000px;
+    justify-content: center;
+    display: flex;
+}
+.left {
+    width: 665px;
+    height: 730px;
+    background-image: url("../images/images2.jpg");
+    background-size: cover;
+    border-radius: 30px;
+    margin-right: 27px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    width: 370px;
+    padding: 10px 0 10px 0;
+    justify-content: center;
+}
+.one-top{
+    margin-top: 23px;
+}
+.img {
+    margin-top: 20px;
+    padding: 21px;
+    width: 670px;
+    height: 220px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    border: 1px solid #de9f90;
+    background: #FAFAFC;
+}
+.icon-bgc{
+    width: 200px;
+    height: 100px;
+    padding: 12px;
+    background: #45525B;
+}
+.text {
+    letter-spacing: 2px;
+    font-size: 14px;
+    color: #45525B;
+    margin-top: 17px;
+    margin-bottom: 15px;
+    font-style: normal;
+    line-height: 19px;
+    text-transform: uppercase;
+}
+
+
+
+/* TAB SLIDER */
+
+.cakes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    background: black;
+}
+.cakeCard{
+    width: 500px;
+    border: 1px solid rgb(244, 171, 183);
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.cakeCard img{
+    width: 200px;
+    height: 150px;
+    margin-top: 20px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 15px;
+    margin-top: 20px;
+    color: #98be1d;
+}
+span {
+    width: 450px;
+    margin-left: 10px;
+    margin-bottom:  10px;
+    color: #d6197d;
+    margin-top: 10px;
+}
+p{
+    color: violet;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+/*------CARD SWITCHER------*/
+
+.card_switcher {
+    background-color: #d6acd6;
+    padding: 100px 0;
+}
+
+.card {
+    width: 500px;
+    height: 150px;
+    border: 1px solid #d6197d;;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.card p {
+    color:  #e07653;
+    font-size: 20px;
+}
+
+.card span {
+    color: white;
+    font-size: 30px;
+}
+
+.inner_card_switcher {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+/*-------CONVERTER--------*/
+
+
+.converter {
+    padding: 100px 0;
+    background-color: #c79595;
+}
+
+.inner_converter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.inner_converter > div {
+    display: flex;
+    flex-direction: column;
+}
+
+/*------WEATHER------*/
+
+.weather {
+    padding: 100px 0;
+    background-color: #d6acd6;
+}
+
+.inner_weather > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-size: 25px;
+}
+
+.inner_weather {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+hr {
+    width: 100%;
+}
+img{
+    width: 85px;
+    border-radius:  10px;
+    border:  1px solid purple;
+}
+
