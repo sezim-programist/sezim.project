@@ -1,0 +1,53 @@
+@import "vars"
+@import "mixin"
+
+.test5
+    margin: 20px
+    @include temp(blue, 15px)
+
+.test2
+    color: $orange
+
+*
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+
+html
+    font-size: 14px
+    font-family: "Poppins", sans-serif
+    font-weight: 400
+
+.container
+    width: 1170px
+    margin: 0 auto
+    @media (max-width: 1210px)
+        width: 100%
+        padding-left: 20px
+        padding-right: 20px
+
+.title__span
+    color: #FF8A63
+    line-height: 19.6px
+    letter-spacing: 2px
+    text-transform: uppercase
+
+.title
+    color: #45525B
+    font-size: 36px
+    font-weight: 500
+    line-height: 43.2px
+    margin-top: -6px
+
+.title__caption
+    color: #6F7278
+    font-size: 18px
+    line-height: 21.6px
+    margin-top: 11px
+
+.link a
+    color: #45525B
+    font-size: 15px
+    line-height: 21px
+    text-decoration: none
+
